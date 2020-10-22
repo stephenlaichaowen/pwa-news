@@ -6,9 +6,7 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "heroku-postbuild": "npm run build"
+    "start": "nuxt build && nuxt start",
   },
   "dependencies": {
     "nuxt": "^2.0.0",
