@@ -36,6 +36,6 @@ export default {
   },
   computed: {
     ...mapGetters(['articles'])
-  }  
+  }
 }
 </script>
