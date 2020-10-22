@@ -1,7 +1,7 @@
 {
   "name": "pwa-news",
   "version": "1.0.0",
-  "description": "My slick Nuxt.js project",
+  "description": "PWA News Nuxtjs App",
   "author": "stephenlai",
   "private": true,
   "scripts": {
